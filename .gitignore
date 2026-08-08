@@ -13,3 +13,4 @@ airflow.db
 .astro/*.local.yml
 .astro/*.local.yaml
 /docs/
+/raw_datasets/
